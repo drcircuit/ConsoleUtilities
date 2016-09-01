@@ -6,7 +6,7 @@ namespace ConsoleChalkAcceptanceTest
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        private static void Main()
         {
             Console.WriteLine("This text should be normal");
             Console.WriteLine();
