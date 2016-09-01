@@ -6,7 +6,7 @@
     <title>DrCircuit's ConsoleChalk</title>
     <authors>Espen Sande Larsen</authors>
     <owners>Espen Sande Larsen</owners>
-    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.htm</licenseUrl>
+    <licenseUrl>https://www.gnu.org/licenses/gpl.html</licenseUrl>
     <projectUrl>https://github.com/drcircuit/ConsoleUtilities</projectUrl>
     <iconUrl>http://espen.sandelarsen.com/images/ConsoleChalkIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

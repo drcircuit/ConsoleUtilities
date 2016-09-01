@@ -17,10 +17,7 @@ namespace DrCircuit.ConsoleUtilities
             {"white", ConsoleColor.White}
         };
 
-        public static string Blue(this string s)
-        {
-            return Blue(s, false);
-        }
+        public static string Blue(this string s) => Blue(s, false);
 
         public static string Blue(this string s, bool writeLine)
         {
@@ -31,10 +28,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string Cyan(this string s)
-        {
-            return Cyan(s, false);
-        }
+        public static string Cyan(this string s) => Cyan(s, false);
 
         public static string Cyan(this string s, bool writeLine)
         {
@@ -45,10 +39,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string Gray(this string s)
-        {
-            return Gray(s, false);
-        }
+        public static string Gray(this string s) => Gray(s, false);
 
         public static string Gray(this string s, bool writeLine)
         {
@@ -59,10 +50,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string Green(this string s)
-        {
-            return Green(s, false);
-        }
+        public static string Green(this string s) => Green(s, false);
 
         public static string Green(this string s, bool writeLine)
         {
@@ -87,10 +75,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string Red(this string s)
-        {
-            return Red(s, false);
-        }
+        public static string Red(this string s) => Red(s, false);
 
         public static string Red(this string s, bool writeLine)
         {
@@ -101,10 +86,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string White(this string s)
-        {
-            return White(s, false);
-        }
+        public static string White(this string s) => White(s, false);
 
         public static string White(this string s, bool writeLine)
         {
@@ -115,10 +97,7 @@ namespace DrCircuit.ConsoleUtilities
             return string.Empty;
         }
 
-        public static string Yellow(this string s)
-        {
-            return Yellow(s, false);
-        }
+        public static string Yellow(this string s) => Yellow(s, false);
 
         public static string Yellow(this string s, bool writeLine)
         {
