@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DrCircuit.ConsoleUtilities.ConsoleChalk</id>
+    <version>1.0.*</version>
+    <title>DrCircuit's ConsoleChalk</title>
+    <authors>Espen Sande Larsen</authors>
+    <owners>Espen Sande Larsen</owners>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.htm</licenseUrl>
+    <projectUrl>https://github.com/drcircuit/ConsoleUtilities</projectUrl>
+    <iconUrl>http://espen.sandelarsen.com/images/ConsoleChalkIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small set of extension methods that make it easier to color text in the console. Just call a string with the color method you want, it will color the text in that color in the console window. You can make several calls to different colors using concatenation or string interpolation.</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Console Text Colors</tags>
+  </metadata>
+</package>
